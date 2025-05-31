@@ -72,12 +72,6 @@ php -S localhost:8000
 
 ---
 
-## 📸 Screenshots (Optional)
-
-_Add screenshots or GIFs showing the quiz interface, invitation screen, and result page._
-
----
-
 ## 👩‍💻 Author
 
 **Adonia Sequeira**  
