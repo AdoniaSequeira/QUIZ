@@ -1,6 +1,6 @@
 # 🧠 Quizznozz: Interactive Learning Quiz Portal
 
-**Quizznozz** is a dynamic and responsive 13-page web application designed to make online learning engaging through interactive quizzes. Built with a modern tech stack including **HTML**, **CSS**, **JavaScript**, **PHP**, **AJAX**, and **MySQL**, the platform offers a smooth user experience with animation, real-time updates, and secure access via invitation codes.
+**Quizznozz** is a dynamic and responsive web application designed to make online learning engaging through interactive quizzes. Built with a modern tech stack including **HTML**, **CSS**, **JavaScript**, **PHP**, **AJAX**, and **MySQL**, the platform offers a smooth user experience with animation, real-time updates, and secure access via invitation codes.
 
 ---
 
