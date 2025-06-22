@@ -72,25 +72,6 @@ php -S localhost:8000
 
 ---
 
-## 👩‍💻 Author
-
-**Adonia Sequeira**  
-M.S. in Computer Science @ George Washington University (May 2025)  
-Passionate about UI/UX, full-stack development, and learner-centered technology  
-🔗 [LinkedIn](https://linkedin.com/in/adonia-sequeira)  
-🌐 [Portfolio](https://adoniasequeira.github.io/Adonia_Sequeira.github.io)
-
----
-
-## 📌 Future Enhancements
-
-- Add leaderboard functionality for classroom gamification  
-- Introduce category-wise performance analytics  
-- Add admin panel to manage quiz sets and monitor results  
-- Enhance frontend with React or Vue for SPA features  
-
----
-
 > “Learning should be fun — and quizzes should be smarter.” — *Adonia Sequeira*
 > <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
